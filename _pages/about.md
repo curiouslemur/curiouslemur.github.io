@@ -2,25 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Worcester Polytechnic Institute  | <a href="mailto:ntrakotondravony@wpi.edu">ntrakotondravony@wpi.edu</a>
+#  <a href="https://scholar.google.com/citations?user=Q_XA_s4AAAAJ&hl=fr&oi=ao" target="_blank"><i class="ai ai-google-scholar-square ai-2x" style="color:black"></i></a>
+#  <a href="https://dblp.org/pid/190/2951.html" target="_blank"> <i class="ai ai-dblp-square ai-2x" style="color:#c1a203"></i></a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+   <a href="mailto:ntrakotondravony@wpi.edu"> <i class="fa-solid fa-square-envelope fa-2x" style="color:#575f14"> </i></a>
+   <a href="https://scholar.google.com/citations?user=Q_XA_s4AAAAJ&hl=fr&oi=ao"><i class="ai ai-google-scholar-square ai-2x" style="color:#673b22"></i></a> <a href="https://dblp.org/pid/190/2951.html" target="_blank"> <i class="ai ai-dblp-square ai-2x" style="color:#c1a203"></i></a> 
+   <a href="https://github.com/curiouslemur" target="_blank"><i class="fa-brands fa-square-github fa-2x" style="color:#d85800"></i></a> 
+   <a href="https://twitter.com/curiouslemur" target="_blank"><i class="fa-brands fa-square-twitter fa-2x" style="color:#1e96e8"></i></a>
+
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+👋🏼 I am a PhD student in Computer Science at WPI. I worked in the [View Lab](https://dev.codementum.org/viewlab/), advised by Prof. [Lane Harrison](https://www.wpi.edu/people/faculty/ltharrison). 
+My research interests are at the intersection of data visualization design, evaluation, and Human-Computer Interaction, across languages and cultures. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I design (online) experiments and interactive user interfaces, and combine quantitative and qualitative methods to model how people explore, talk about, reason with, and design visual representation of information, and how that might vary in different cultural contexts. 
+<!-- What makes a data visualization culturally-relevant from both creators and readers' perspectives. -->
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to WPI, I was a research associate at the University of Passau, Germany, working on cloud computing security, and data visualization for cybersecurity. And before that, I received a national degree in telecommunication engineering from the Higher-School of Communication of Tunis, Tunisia.
+
+<!-- [<i class="ai ai-dblp-square ai-2x" style="color:#c1a203"></i>](https://dblp.org/pid/190/2951.html){:target="_blank"}
+[<i class="ai ai-google-scholar-square ai-2x" style="color:black"></i>](https://scholar.google.com/citations?user=Q_XA_s4AAAAJ&hl=fr&oi=ao){:target="_blank"}
+[<i class="fa-brands fa-square-twitter fa-2x" style="color:#1e96e8"></i>](https://twitter.com/curiouslemur){:target="_blank"}
+[<i class="fa-solid fa-square-envelope fa-2x" style="color:brown"></i>](mailto:ntrakotondravony@wpi.edu) -->
