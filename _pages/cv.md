@@ -7,5 +7,5 @@ nav_order: 4
 # cv_pdf: CV_202310.pdf
 description: Looking for an internship  for summer 2024.
 toc:
-  sidebar: right
+  sidebar: 
 ---
