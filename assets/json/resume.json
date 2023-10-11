@@ -1,31 +1,21 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
+  "basics": [
+    {
+      "highlights": ""
+    }
+  ],
+  "research": [
+    {
+      "interests": [
+        "Interest 1",
+        "interest 2"
+      ]
+    }
+  ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "position": "Student Volunteers",
       "url": "https://example.com",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
@@ -35,12 +25,55 @@
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "IEEE VIS 2023",
+      "position": "Student Volunteers co-chair",
+      "url": "http://vissv.org/",
+      "startDate": "2023",
+      "endDate": ""
+    },
+    {
+      "organization": "IEEE VIS",
+      "position": "Student Volunteers",
+      "url": "http://ieeevis.org/",
+      "startDate": "2019",
+      "endDate": "2022"
+    },
+    {
+      "organization": "IEEE Symposium on Visualization for Cyber Security",
+      "position": "Publicity co-chair, Program Committee",
+      "url": "https://vizsec.org/",
+      "startDate": "2019",
+      "endDate": "2022"
+    },
+    {
+      "organization": "Nightingale: The Journal of the Data Visualization Society",
+      "position": "Guest Editor",
+      "url": "https://nightingaledvs.com/",
+      "startDate": "2019",
+      "endDate": ""
+    },
+    {
+      "organization": "We R: R user group Madagascar",
+      "position": "Co-founder",
+      "url": "https://nightingaledvs.com/",
+      "startDate": "2022",
+      "endDate": ""
+    },
+    {
+      "organization": "ACM ASSETS ",
+      "position": "Student Volunteer",
+      "url": "https://assets23.sigaccess.org/",
+      "startDate": "2022",
+      "endDate": ""
+    }
+  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Worcester Polytechnic Institute",
+      "url": "https://www.wpi.edu",
+      "area": "Computer",
       "studyType": "PhD",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
@@ -63,12 +96,28 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "language": "English",
+      "fluency": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "French",
+      "fluency": ""
+    },
+    {
+      "language": "Malagasy",
+      "fluency": ""
+    },
+    {
+      "language": "German",
+      "fluency": ""
+    },
+    {
+      "language": "Portuguese (BR)",
+      "fluency": ""
+    },
+    {
+      "language": "Arabic (TN)",
+      "fluency": ""
     }
   ],
   "interests": [],
