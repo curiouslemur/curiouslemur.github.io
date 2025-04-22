@@ -22,14 +22,17 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+👋🏼 I am a PhD student in Computer Science at WPI. 
+I am a member the [View Lab](https://dev.codementum.org/viewlab/), advised by Prof. [Lane Harrison](https://www.wpi.edu/people/faculty/ltharrison). 
+My research interests are at the intersection of data visualization design / evaluation, and Human-Computer Interaction across languages and cultures. 
 
-👋🏼 I am a PhD candidate in Computer Science at WPI. I worked in the [View Lab](https://dev.codementum.org/viewlab/), advised by Prof. [Lane Harrison](https://www.wpi.edu/people/faculty/ltharrison). 
-My research is about the intersection of data visualization design, Human-Computer Interaction, natural languages and cultures. 
-
-I design experiments and interactive user interfaces, and combine quantitative and qualitative methods to model how people explore, talk about, reason with, and design visual representation of information, and how that might vary in different cultural contexts. 
+I design (online) experiments and interactive user interfaces, and combine quantitative and qualitative methods to model how people explore, talk about, reason with, and design visual representation of information, and how that might vary in different cultural contexts. 
 <!-- What makes a data visualization culturally-relevant from both creators and readers' perspectives. -->
 
+Currently, I am also a UX student researcher at Google, within Google Design Platform. 
+
 Prior to WPI, I was a research associate at the University of Passau, Germany, working on cloud computing security, and data visualization for cybersecurity. And before that, I received a national degree in telecommunication engineering from the Higher-School of Communication of Tunis, Tunisia.
+
 
 <!-- [<i class="ai ai-dblp-square ai-2x" style="color:#c1a203"></i>](https://dblp.org/pid/190/2951.html){:target="_blank"}
 [<i class="ai ai-google-scholar-square ai-2x" style="color:black"></i>](https://scholar.google.com/citations?user=Q_XA_s4AAAAJ&hl=fr&oi=ao){:target="_blank"}
